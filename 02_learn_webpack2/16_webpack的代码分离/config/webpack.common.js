@@ -57,7 +57,7 @@ const commonConfig = {
                     test: /[\\/]node_modules[\\/]/,
                     filename: "[id]_vendors.js",
                     // name: "vendor-chunks.js",
-                    priority: -10
+                    priority: -10 // 优先级
                 },
                 // bar: {
                 //   test: /bar_/,
