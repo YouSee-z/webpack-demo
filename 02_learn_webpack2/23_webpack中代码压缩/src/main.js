@@ -1,5 +1,5 @@
 import { sum } from './math';
-import { math, format } from 'coderwhy_utils';
+import { math, format } from 'zqTest_utils';
 
 import "./format";
 import("./abc").then(res => {

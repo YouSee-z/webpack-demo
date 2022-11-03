@@ -35,7 +35,7 @@
   },
   "dependencies": {
     "axios": "^0.21.1",
-    "coderwhy_utils": "^1.0.0",
+    "zqTest_utils": "^1.0.0",
     "dayjs": "^1.10.4",
     "express": "^4.17.1",
     "lodash": "^4.17.21",

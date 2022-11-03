@@ -15,7 +15,7 @@ module.exports = {
   plugins: [
     new CleanWebpackPlugin(),
     new HtmlWebpackPlugin({
-      title: "coderwhy webpack"
+      title: "zqTest webpack"
     })
   ]
 }

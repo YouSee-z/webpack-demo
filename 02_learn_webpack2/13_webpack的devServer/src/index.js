@@ -22,7 +22,7 @@ import ReactApp from './App.jsx';
 import Vue from 'vue';
 import VueApp from './App.vue';
 
-console.log("Hello Coderwhy");
+console.log("Hello zqTest");
 console.log("abc");
 
 if (module.hot) {

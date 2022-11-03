@@ -637,7 +637,7 @@ module.exports = function (webpackEnv) {
       // to restart the development server for webpack to discover it. This plugin
       // makes the discovery automatic so you don't have to restart.
       // See https://github.com/facebook/create-react-app/issues/186
-      // 加载一个模块 require("coderwhy")找不到一个模块, 没有必要重新start, 只需要通过npm install
+      // 加载一个模块 require("zqTest")找不到一个模块, 没有必要重新start, 只需要通过npm install
       isEnvDevelopment &&
         new WatchMissingNodeModulesPlugin(paths.appNodeModules),
       isEnvProduction &&

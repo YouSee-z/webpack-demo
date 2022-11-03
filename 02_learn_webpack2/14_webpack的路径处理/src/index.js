@@ -9,7 +9,7 @@ import VueApp from './App.vue';
 
 import "./math";
 
-console.log("Hello Coderwhy");
+console.log("Hello zqTest");
 console.log("abc");
 
 if (module.hot) {

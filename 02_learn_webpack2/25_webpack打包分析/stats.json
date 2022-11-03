@@ -4,7 +4,7 @@
   "time": 1877,
   "builtAt": 1615379004979,
   "publicPath": "",
-  "outputPath": "/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/build",
+  "outputPath": "/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/build",
   "assetsByChunkName": {
     "main": ["js/main.b42c36.bundle.js", "css/main.cec922.css"],
     "runtime": ["js/runtime.8044d0.bundle.js"]
@@ -311,9 +311,9 @@
           "built": true,
           "codeGenerated": true,
           "cached": false,
-          "identifier": "/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/main.js|2ed6ff8da02af9993dea916e256dd0c2",
+          "identifier": "/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/main.js|2ed6ff8da02af9993dea916e256dd0c2",
           "name": "./src/main.js + 4 modules",
-          "nameForCondition": "/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/main.js",
+          "nameForCondition": "/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/main.js",
           "index": 0,
           "preOrderIndex": 0,
           "index2": 5,
@@ -360,9 +360,9 @@
               "built": true,
               "codeGenerated": false,
               "cached": false,
-              "identifier": "/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/main.js",
+              "identifier": "/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/main.js",
               "name": "./src/main.js",
-              "nameForCondition": "/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/main.js",
+              "nameForCondition": "/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/main.js",
               "index": 0,
               "preOrderIndex": 0,
               "index2": 5,
@@ -410,9 +410,9 @@
               "built": true,
               "codeGenerated": false,
               "cached": false,
-              "identifier": "/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/mini-css-extract-plugin/dist/loader.js!/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/css-loader/dist/cjs.js!/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/style.css",
+              "identifier": "/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/mini-css-extract-plugin/dist/loader.js!/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/css-loader/dist/cjs.js!/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/style.css",
               "name": "./src/style.css",
-              "nameForCondition": "/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/style.css",
+              "nameForCondition": "/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/style.css",
               "index": 1,
               "preOrderIndex": 1,
               "index2": 1,
@@ -421,11 +421,11 @@
               "optional": false,
               "orphan": false,
               "dependent": true,
-              "issuer": "/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/main.js",
+              "issuer": "/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/main.js",
               "issuerName": "./src/main.js",
               "issuerPath": [
                 {
-                  "identifier": "/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/main.js",
+                  "identifier": "/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/main.js",
                   "name": "./src/main.js",
                   "profile": {
                     "total": 475,
@@ -463,10 +463,10 @@
               "assets": [],
               "reasons": [
                 {
-                  "moduleIdentifier": "/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/main.js",
+                  "moduleIdentifier": "/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/main.js",
                   "module": "./src/main.js",
                   "moduleName": "./src/main.js",
-                  "resolvedModuleIdentifier": "/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/main.js",
+                  "resolvedModuleIdentifier": "/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/main.js",
                   "resolvedModule": "./src/main.js",
                   "type": "harmony side effect evaluation",
                   "active": true,
@@ -493,9 +493,9 @@
               "built": true,
               "codeGenerated": false,
               "cached": false,
-              "identifier": "/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/math.js",
+              "identifier": "/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/math.js",
               "name": "./src/math.js",
-              "nameForCondition": "/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/math.js",
+              "nameForCondition": "/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/math.js",
               "index": 3,
               "preOrderIndex": 3,
               "index2": 2,
@@ -504,11 +504,11 @@
               "optional": false,
               "orphan": false,
               "dependent": true,
-              "issuer": "/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/main.js",
+              "issuer": "/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/main.js",
               "issuerName": "./src/main.js",
               "issuerPath": [
                 {
-                  "identifier": "/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/main.js",
+                  "identifier": "/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/main.js",
                   "name": "./src/main.js",
                   "profile": {
                     "total": 475,
@@ -546,10 +546,10 @@
               "assets": [],
               "reasons": [
                 {
-                  "moduleIdentifier": "/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/main.js",
+                  "moduleIdentifier": "/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/main.js",
                   "module": "./src/main.js",
                   "moduleName": "./src/main.js",
-                  "resolvedModuleIdentifier": "/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/main.js",
+                  "resolvedModuleIdentifier": "/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/main.js",
                   "resolvedModule": "./src/main.js",
                   "type": "harmony side effect evaluation",
                   "active": false,
@@ -560,10 +560,10 @@
                   "resolvedModuleId": null
                 },
                 {
-                  "moduleIdentifier": "/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/main.js",
+                  "moduleIdentifier": "/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/main.js",
                   "module": "./src/main.js",
                   "moduleName": "./src/main.js",
-                  "resolvedModuleIdentifier": "/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/main.js",
+                  "resolvedModuleIdentifier": "/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/main.js",
                   "resolvedModule": "./src/main.js",
                   "type": "harmony import specifier",
                   "active": true,
@@ -590,9 +590,9 @@
               "built": true,
               "codeGenerated": false,
               "cached": false,
-              "identifier": "/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/coderwhy_utils/lib/math.js",
-              "name": "./node_modules/coderwhy_utils/lib/math.js",
-              "nameForCondition": "/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/coderwhy_utils/lib/math.js",
+              "identifier": "/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/zqTest_utils/lib/math.js",
+              "name": "./node_modules/zqTest_utils/lib/math.js",
+              "nameForCondition": "/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/zqTest_utils/lib/math.js",
               "index": 4,
               "preOrderIndex": 4,
               "index2": 3,
@@ -601,11 +601,11 @@
               "optional": false,
               "orphan": false,
               "dependent": true,
-              "issuer": "/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/coderwhy_utils/index.js",
-              "issuerName": "./node_modules/coderwhy_utils/index.js",
+              "issuer": "/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/zqTest_utils/index.js",
+              "issuerName": "./node_modules/zqTest_utils/index.js",
               "issuerPath": [
                 {
-                  "identifier": "/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/main.js",
+                  "identifier": "/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/main.js",
                   "name": "./src/main.js",
                   "profile": {
                     "total": 475,
@@ -622,8 +622,8 @@
                   "id": null
                 },
                 {
-                  "identifier": "/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/coderwhy_utils/index.js",
-                  "name": "./node_modules/coderwhy_utils/index.js",
+                  "identifier": "/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/zqTest_utils/index.js",
+                  "name": "./node_modules/zqTest_utils/index.js",
                   "profile": {
                     "total": 54,
                     "resolving": 48,
@@ -660,11 +660,11 @@
               "assets": [],
               "reasons": [
                 {
-                  "moduleIdentifier": "/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/coderwhy_utils/index.js",
-                  "module": "./node_modules/coderwhy_utils/index.js",
-                  "moduleName": "./node_modules/coderwhy_utils/index.js",
-                  "resolvedModuleIdentifier": "/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/coderwhy_utils/index.js",
-                  "resolvedModule": "./node_modules/coderwhy_utils/index.js",
+                  "moduleIdentifier": "/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/zqTest_utils/index.js",
+                  "module": "./node_modules/zqTest_utils/index.js",
+                  "moduleName": "./node_modules/zqTest_utils/index.js",
+                  "resolvedModuleIdentifier": "/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/zqTest_utils/index.js",
+                  "resolvedModule": "./node_modules/zqTest_utils/index.js",
                   "type": "harmony side effect evaluation",
                   "active": false,
                   "explanation": "",
@@ -674,11 +674,11 @@
                   "resolvedModuleId": null
                 },
                 {
-                  "moduleIdentifier": "/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/coderwhy_utils/index.js",
-                  "module": "./node_modules/coderwhy_utils/index.js",
-                  "moduleName": "./node_modules/coderwhy_utils/index.js",
-                  "resolvedModuleIdentifier": "/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/coderwhy_utils/index.js",
-                  "resolvedModule": "./node_modules/coderwhy_utils/index.js",
+                  "moduleIdentifier": "/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/zqTest_utils/index.js",
+                  "module": "./node_modules/zqTest_utils/index.js",
+                  "moduleName": "./node_modules/zqTest_utils/index.js",
+                  "resolvedModuleIdentifier": "/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/zqTest_utils/index.js",
+                  "resolvedModule": "./node_modules/zqTest_utils/index.js",
                   "type": "harmony export imported specifier",
                   "active": false,
                   "explanation": "",
@@ -688,15 +688,15 @@
                   "resolvedModuleId": null
                 },
                 {
-                  "moduleIdentifier": "/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/main.js",
+                  "moduleIdentifier": "/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/main.js",
                   "module": "./src/main.js",
                   "moduleName": "./src/main.js",
-                  "resolvedModuleIdentifier": "/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/main.js",
+                  "resolvedModuleIdentifier": "/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/main.js",
                   "resolvedModule": "./src/main.js",
                   "type": "harmony import specifier",
                   "active": true,
                   "explanation": "(skipped side-effect-free modules)",
-                  "userRequest": "coderwhy_utils",
+                  "userRequest": "zqTest_utils",
                   "loc": "7:12-20",
                   "moduleId": null,
                   "resolvedModuleId": null
@@ -718,9 +718,9 @@
               "built": true,
               "codeGenerated": false,
               "cached": false,
-              "identifier": "/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/coderwhy_utils/lib/format.js",
-              "name": "./node_modules/coderwhy_utils/lib/format.js",
-              "nameForCondition": "/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/coderwhy_utils/lib/format.js",
+              "identifier": "/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/zqTest_utils/lib/format.js",
+              "name": "./node_modules/zqTest_utils/lib/format.js",
+              "nameForCondition": "/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/zqTest_utils/lib/format.js",
               "index": 5,
               "preOrderIndex": 5,
               "index2": 4,
@@ -729,11 +729,11 @@
               "optional": false,
               "orphan": false,
               "dependent": true,
-              "issuer": "/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/coderwhy_utils/index.js",
-              "issuerName": "./node_modules/coderwhy_utils/index.js",
+              "issuer": "/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/zqTest_utils/index.js",
+              "issuerName": "./node_modules/zqTest_utils/index.js",
               "issuerPath": [
                 {
-                  "identifier": "/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/main.js",
+                  "identifier": "/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/main.js",
                   "name": "./src/main.js",
                   "profile": {
                     "total": 475,
@@ -750,8 +750,8 @@
                   "id": null
                 },
                 {
-                  "identifier": "/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/coderwhy_utils/index.js",
-                  "name": "./node_modules/coderwhy_utils/index.js",
+                  "identifier": "/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/zqTest_utils/index.js",
+                  "name": "./node_modules/zqTest_utils/index.js",
                   "profile": {
                     "total": 54,
                     "resolving": 48,
@@ -788,11 +788,11 @@
               "assets": [],
               "reasons": [
                 {
-                  "moduleIdentifier": "/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/coderwhy_utils/index.js",
-                  "module": "./node_modules/coderwhy_utils/index.js",
-                  "moduleName": "./node_modules/coderwhy_utils/index.js",
-                  "resolvedModuleIdentifier": "/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/coderwhy_utils/index.js",
-                  "resolvedModule": "./node_modules/coderwhy_utils/index.js",
+                  "moduleIdentifier": "/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/zqTest_utils/index.js",
+                  "module": "./node_modules/zqTest_utils/index.js",
+                  "moduleName": "./node_modules/zqTest_utils/index.js",
+                  "resolvedModuleIdentifier": "/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/zqTest_utils/index.js",
+                  "resolvedModule": "./node_modules/zqTest_utils/index.js",
                   "type": "harmony side effect evaluation",
                   "active": false,
                   "explanation": "",
@@ -802,11 +802,11 @@
                   "resolvedModuleId": null
                 },
                 {
-                  "moduleIdentifier": "/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/coderwhy_utils/index.js",
-                  "module": "./node_modules/coderwhy_utils/index.js",
-                  "moduleName": "./node_modules/coderwhy_utils/index.js",
-                  "resolvedModuleIdentifier": "/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/coderwhy_utils/index.js",
-                  "resolvedModule": "./node_modules/coderwhy_utils/index.js",
+                  "moduleIdentifier": "/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/zqTest_utils/index.js",
+                  "module": "./node_modules/zqTest_utils/index.js",
+                  "moduleName": "./node_modules/zqTest_utils/index.js",
+                  "resolvedModuleIdentifier": "/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/zqTest_utils/index.js",
+                  "resolvedModule": "./node_modules/zqTest_utils/index.js",
                   "type": "harmony export imported specifier",
                   "active": false,
                   "explanation": "",
@@ -816,15 +816,15 @@
                   "resolvedModuleId": null
                 },
                 {
-                  "moduleIdentifier": "/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/main.js",
+                  "moduleIdentifier": "/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/main.js",
                   "module": "./src/main.js",
                   "moduleName": "./src/main.js",
-                  "resolvedModuleIdentifier": "/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/main.js",
+                  "resolvedModuleIdentifier": "/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/main.js",
                   "resolvedModule": "./src/main.js",
                   "type": "harmony import specifier",
                   "active": true,
                   "explanation": "(skipped side-effect-free modules)",
-                  "userRequest": "coderwhy_utils",
+                  "userRequest": "zqTest_utils",
                   "loc": "8:12-29",
                   "moduleId": null,
                   "resolvedModuleId": null
@@ -848,9 +848,9 @@
           "built": false,
           "codeGenerated": true,
           "cached": false,
-          "identifier": "css|/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/css-loader/dist/cjs.js!/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/style.css|0",
+          "identifier": "css|/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/css-loader/dist/cjs.js!/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/style.css|0",
           "name": "css ./node_modules/css-loader/dist/cjs.js!./src/style.css",
-          "nameForCondition": "/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/style.css",
+          "nameForCondition": "/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/style.css",
           "index": 2,
           "preOrderIndex": 2,
           "index2": 0,
@@ -858,11 +858,11 @@
           "optional": false,
           "orphan": false,
           "dependent": true,
-          "issuer": "/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/mini-css-extract-plugin/dist/loader.js!/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/css-loader/dist/cjs.js!/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/style.css",
+          "issuer": "/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/mini-css-extract-plugin/dist/loader.js!/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/css-loader/dist/cjs.js!/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/style.css",
           "issuerName": "./src/style.css",
           "issuerPath": [
             {
-              "identifier": "/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/main.js",
+              "identifier": "/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/main.js",
               "name": "./src/main.js",
               "profile": {
                 "total": 475,
@@ -879,7 +879,7 @@
               "id": null
             },
             {
-              "identifier": "/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/mini-css-extract-plugin/dist/loader.js!/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/css-loader/dist/cjs.js!/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/style.css",
+              "identifier": "/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/mini-css-extract-plugin/dist/loader.js!/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/css-loader/dist/cjs.js!/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/style.css",
               "name": "./src/style.css",
               "profile": {
                 "total": 222,
@@ -917,10 +917,10 @@
           "assets": [],
           "reasons": [
             {
-              "moduleIdentifier": "/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/main.js|2ed6ff8da02af9993dea916e256dd0c2",
+              "moduleIdentifier": "/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/main.js|2ed6ff8da02af9993dea916e256dd0c2",
               "module": "./src/main.js + 4 modules",
               "moduleName": "./src/main.js + 4 modules",
-              "resolvedModuleIdentifier": "/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/mini-css-extract-plugin/dist/loader.js!/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/css-loader/dist/cjs.js!/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/style.css",
+              "resolvedModuleIdentifier": "/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/mini-css-extract-plugin/dist/loader.js!/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/css-loader/dist/cjs.js!/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/style.css",
               "resolvedModule": "./src/style.css",
               "type": "unknown",
               "active": true,
@@ -930,10 +930,10 @@
               "resolvedModuleId": null
             },
             {
-              "moduleIdentifier": "/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/mini-css-extract-plugin/dist/loader.js!/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/css-loader/dist/cjs.js!/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/style.css",
+              "moduleIdentifier": "/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/mini-css-extract-plugin/dist/loader.js!/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/css-loader/dist/cjs.js!/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/style.css",
               "module": "./src/style.css",
               "moduleName": "./src/style.css",
-              "resolvedModuleIdentifier": "/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/mini-css-extract-plugin/dist/loader.js!/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/css-loader/dist/cjs.js!/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/style.css",
+              "resolvedModuleIdentifier": "/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/mini-css-extract-plugin/dist/loader.js!/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/css-loader/dist/cjs.js!/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/style.css",
               "resolvedModule": "./src/style.css",
               "type": "unknown",
               "active": true,
@@ -1330,9 +1330,9 @@
           "built": true,
           "codeGenerated": true,
           "cached": false,
-          "identifier": "/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/abc.js",
+          "identifier": "/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/abc.js",
           "name": "./src/abc.js",
-          "nameForCondition": "/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/abc.js",
+          "nameForCondition": "/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/abc.js",
           "index": 6,
           "preOrderIndex": 6,
           "index2": 6,
@@ -1341,11 +1341,11 @@
           "optional": false,
           "orphan": false,
           "dependent": false,
-          "issuer": "/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/main.js",
+          "issuer": "/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/main.js",
           "issuerName": "./src/main.js",
           "issuerPath": [
             {
-              "identifier": "/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/main.js",
+              "identifier": "/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/main.js",
               "name": "./src/main.js",
               "profile": {
                 "total": 475,
@@ -1383,10 +1383,10 @@
           "assets": [],
           "reasons": [
             {
-              "moduleIdentifier": "/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/main.js|2ed6ff8da02af9993dea916e256dd0c2",
+              "moduleIdentifier": "/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/main.js|2ed6ff8da02af9993dea916e256dd0c2",
               "module": "./src/main.js + 4 modules",
               "moduleName": "./src/main.js + 4 modules",
-              "resolvedModuleIdentifier": "/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/main.js",
+              "resolvedModuleIdentifier": "/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/main.js",
               "resolvedModule": "./src/main.js",
               "type": "import()",
               "active": true,
@@ -1407,8 +1407,8 @@
       ],
       "origins": [
         {
-          "module": "/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/main.js",
-          "moduleIdentifier": "/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/main.js",
+          "module": "/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/main.js",
+          "moduleIdentifier": "/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/main.js",
           "moduleName": "./src/main.js",
           "loc": "4:0-15",
           "request": "./abc",
@@ -1427,9 +1427,9 @@
       "built": true,
       "codeGenerated": true,
       "cached": false,
-      "identifier": "/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/main.js|2ed6ff8da02af9993dea916e256dd0c2",
+      "identifier": "/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/main.js|2ed6ff8da02af9993dea916e256dd0c2",
       "name": "./src/main.js + 4 modules",
-      "nameForCondition": "/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/main.js",
+      "nameForCondition": "/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/main.js",
       "index": 0,
       "preOrderIndex": 0,
       "index2": 5,
@@ -1475,9 +1475,9 @@
           "built": true,
           "codeGenerated": false,
           "cached": false,
-          "identifier": "/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/main.js",
+          "identifier": "/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/main.js",
           "name": "./src/main.js",
-          "nameForCondition": "/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/main.js",
+          "nameForCondition": "/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/main.js",
           "index": 0,
           "preOrderIndex": 0,
           "index2": 5,
@@ -1524,9 +1524,9 @@
           "built": true,
           "codeGenerated": false,
           "cached": false,
-          "identifier": "/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/mini-css-extract-plugin/dist/loader.js!/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/css-loader/dist/cjs.js!/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/style.css",
+          "identifier": "/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/mini-css-extract-plugin/dist/loader.js!/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/css-loader/dist/cjs.js!/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/style.css",
           "name": "./src/style.css",
-          "nameForCondition": "/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/style.css",
+          "nameForCondition": "/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/style.css",
           "index": 1,
           "preOrderIndex": 1,
           "index2": 1,
@@ -1534,11 +1534,11 @@
           "cacheable": true,
           "optional": false,
           "orphan": false,
-          "issuer": "/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/main.js",
+          "issuer": "/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/main.js",
           "issuerName": "./src/main.js",
           "issuerPath": [
             {
-              "identifier": "/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/main.js",
+              "identifier": "/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/main.js",
               "name": "./src/main.js",
               "profile": {
                 "total": 475,
@@ -1576,10 +1576,10 @@
           "assets": [],
           "reasons": [
             {
-              "moduleIdentifier": "/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/main.js",
+              "moduleIdentifier": "/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/main.js",
               "module": "./src/main.js",
               "moduleName": "./src/main.js",
-              "resolvedModuleIdentifier": "/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/main.js",
+              "resolvedModuleIdentifier": "/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/main.js",
               "resolvedModule": "./src/main.js",
               "type": "harmony side effect evaluation",
               "active": true,
@@ -1606,9 +1606,9 @@
           "built": true,
           "codeGenerated": false,
           "cached": false,
-          "identifier": "/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/math.js",
+          "identifier": "/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/math.js",
           "name": "./src/math.js",
-          "nameForCondition": "/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/math.js",
+          "nameForCondition": "/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/math.js",
           "index": 3,
           "preOrderIndex": 3,
           "index2": 2,
@@ -1616,11 +1616,11 @@
           "cacheable": true,
           "optional": false,
           "orphan": false,
-          "issuer": "/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/main.js",
+          "issuer": "/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/main.js",
           "issuerName": "./src/main.js",
           "issuerPath": [
             {
-              "identifier": "/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/main.js",
+              "identifier": "/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/main.js",
               "name": "./src/main.js",
               "profile": {
                 "total": 475,
@@ -1658,10 +1658,10 @@
           "assets": [],
           "reasons": [
             {
-              "moduleIdentifier": "/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/main.js",
+              "moduleIdentifier": "/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/main.js",
               "module": "./src/main.js",
               "moduleName": "./src/main.js",
-              "resolvedModuleIdentifier": "/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/main.js",
+              "resolvedModuleIdentifier": "/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/main.js",
               "resolvedModule": "./src/main.js",
               "type": "harmony side effect evaluation",
               "active": false,
@@ -1672,10 +1672,10 @@
               "resolvedModuleId": null
             },
             {
-              "moduleIdentifier": "/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/main.js",
+              "moduleIdentifier": "/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/main.js",
               "module": "./src/main.js",
               "moduleName": "./src/main.js",
-              "resolvedModuleIdentifier": "/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/main.js",
+              "resolvedModuleIdentifier": "/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/main.js",
               "resolvedModule": "./src/main.js",
               "type": "harmony import specifier",
               "active": true,
@@ -1702,9 +1702,9 @@
           "built": true,
           "codeGenerated": false,
           "cached": false,
-          "identifier": "/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/coderwhy_utils/lib/math.js",
-          "name": "./node_modules/coderwhy_utils/lib/math.js",
-          "nameForCondition": "/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/coderwhy_utils/lib/math.js",
+          "identifier": "/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/zqTest_utils/lib/math.js",
+          "name": "./node_modules/zqTest_utils/lib/math.js",
+          "nameForCondition": "/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/zqTest_utils/lib/math.js",
           "index": 4,
           "preOrderIndex": 4,
           "index2": 3,
@@ -1712,11 +1712,11 @@
           "cacheable": true,
           "optional": false,
           "orphan": false,
-          "issuer": "/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/coderwhy_utils/index.js",
-          "issuerName": "./node_modules/coderwhy_utils/index.js",
+          "issuer": "/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/zqTest_utils/index.js",
+          "issuerName": "./node_modules/zqTest_utils/index.js",
           "issuerPath": [
             {
-              "identifier": "/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/main.js",
+              "identifier": "/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/main.js",
               "name": "./src/main.js",
               "profile": {
                 "total": 475,
@@ -1733,8 +1733,8 @@
               "id": null
             },
             {
-              "identifier": "/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/coderwhy_utils/index.js",
-              "name": "./node_modules/coderwhy_utils/index.js",
+              "identifier": "/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/zqTest_utils/index.js",
+              "name": "./node_modules/zqTest_utils/index.js",
               "profile": {
                 "total": 54,
                 "resolving": 48,
@@ -1771,11 +1771,11 @@
           "assets": [],
           "reasons": [
             {
-              "moduleIdentifier": "/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/coderwhy_utils/index.js",
-              "module": "./node_modules/coderwhy_utils/index.js",
-              "moduleName": "./node_modules/coderwhy_utils/index.js",
-              "resolvedModuleIdentifier": "/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/coderwhy_utils/index.js",
-              "resolvedModule": "./node_modules/coderwhy_utils/index.js",
+              "moduleIdentifier": "/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/zqTest_utils/index.js",
+              "module": "./node_modules/zqTest_utils/index.js",
+              "moduleName": "./node_modules/zqTest_utils/index.js",
+              "resolvedModuleIdentifier": "/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/zqTest_utils/index.js",
+              "resolvedModule": "./node_modules/zqTest_utils/index.js",
               "type": "harmony side effect evaluation",
               "active": false,
               "explanation": "",
@@ -1785,11 +1785,11 @@
               "resolvedModuleId": null
             },
             {
-              "moduleIdentifier": "/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/coderwhy_utils/index.js",
-              "module": "./node_modules/coderwhy_utils/index.js",
-              "moduleName": "./node_modules/coderwhy_utils/index.js",
-              "resolvedModuleIdentifier": "/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/coderwhy_utils/index.js",
-              "resolvedModule": "./node_modules/coderwhy_utils/index.js",
+              "moduleIdentifier": "/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/zqTest_utils/index.js",
+              "module": "./node_modules/zqTest_utils/index.js",
+              "moduleName": "./node_modules/zqTest_utils/index.js",
+              "resolvedModuleIdentifier": "/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/zqTest_utils/index.js",
+              "resolvedModule": "./node_modules/zqTest_utils/index.js",
               "type": "harmony export imported specifier",
               "active": false,
               "explanation": "",
@@ -1799,15 +1799,15 @@
               "resolvedModuleId": null
             },
             {
-              "moduleIdentifier": "/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/main.js",
+              "moduleIdentifier": "/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/main.js",
               "module": "./src/main.js",
               "moduleName": "./src/main.js",
-              "resolvedModuleIdentifier": "/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/main.js",
+              "resolvedModuleIdentifier": "/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/main.js",
               "resolvedModule": "./src/main.js",
               "type": "harmony import specifier",
               "active": true,
               "explanation": "(skipped side-effect-free modules)",
-              "userRequest": "coderwhy_utils",
+              "userRequest": "zqTest_utils",
               "loc": "7:12-20",
               "moduleId": null,
               "resolvedModuleId": null
@@ -1829,9 +1829,9 @@
           "built": true,
           "codeGenerated": false,
           "cached": false,
-          "identifier": "/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/coderwhy_utils/lib/format.js",
-          "name": "./node_modules/coderwhy_utils/lib/format.js",
-          "nameForCondition": "/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/coderwhy_utils/lib/format.js",
+          "identifier": "/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/zqTest_utils/lib/format.js",
+          "name": "./node_modules/zqTest_utils/lib/format.js",
+          "nameForCondition": "/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/zqTest_utils/lib/format.js",
           "index": 5,
           "preOrderIndex": 5,
           "index2": 4,
@@ -1839,11 +1839,11 @@
           "cacheable": true,
           "optional": false,
           "orphan": false,
-          "issuer": "/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/coderwhy_utils/index.js",
-          "issuerName": "./node_modules/coderwhy_utils/index.js",
+          "issuer": "/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/zqTest_utils/index.js",
+          "issuerName": "./node_modules/zqTest_utils/index.js",
           "issuerPath": [
             {
-              "identifier": "/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/main.js",
+              "identifier": "/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/main.js",
               "name": "./src/main.js",
               "profile": {
                 "total": 475,
@@ -1860,8 +1860,8 @@
               "id": null
             },
             {
-              "identifier": "/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/coderwhy_utils/index.js",
-              "name": "./node_modules/coderwhy_utils/index.js",
+              "identifier": "/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/zqTest_utils/index.js",
+              "name": "./node_modules/zqTest_utils/index.js",
               "profile": {
                 "total": 54,
                 "resolving": 48,
@@ -1898,11 +1898,11 @@
           "assets": [],
           "reasons": [
             {
-              "moduleIdentifier": "/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/coderwhy_utils/index.js",
-              "module": "./node_modules/coderwhy_utils/index.js",
-              "moduleName": "./node_modules/coderwhy_utils/index.js",
-              "resolvedModuleIdentifier": "/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/coderwhy_utils/index.js",
-              "resolvedModule": "./node_modules/coderwhy_utils/index.js",
+              "moduleIdentifier": "/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/zqTest_utils/index.js",
+              "module": "./node_modules/zqTest_utils/index.js",
+              "moduleName": "./node_modules/zqTest_utils/index.js",
+              "resolvedModuleIdentifier": "/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/zqTest_utils/index.js",
+              "resolvedModule": "./node_modules/zqTest_utils/index.js",
               "type": "harmony side effect evaluation",
               "active": false,
               "explanation": "",
@@ -1912,11 +1912,11 @@
               "resolvedModuleId": null
             },
             {
-              "moduleIdentifier": "/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/coderwhy_utils/index.js",
-              "module": "./node_modules/coderwhy_utils/index.js",
-              "moduleName": "./node_modules/coderwhy_utils/index.js",
-              "resolvedModuleIdentifier": "/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/coderwhy_utils/index.js",
-              "resolvedModule": "./node_modules/coderwhy_utils/index.js",
+              "moduleIdentifier": "/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/zqTest_utils/index.js",
+              "module": "./node_modules/zqTest_utils/index.js",
+              "moduleName": "./node_modules/zqTest_utils/index.js",
+              "resolvedModuleIdentifier": "/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/zqTest_utils/index.js",
+              "resolvedModule": "./node_modules/zqTest_utils/index.js",
               "type": "harmony export imported specifier",
               "active": false,
               "explanation": "",
@@ -1926,15 +1926,15 @@
               "resolvedModuleId": null
             },
             {
-              "moduleIdentifier": "/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/main.js",
+              "moduleIdentifier": "/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/main.js",
               "module": "./src/main.js",
               "moduleName": "./src/main.js",
-              "resolvedModuleIdentifier": "/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/main.js",
+              "resolvedModuleIdentifier": "/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/main.js",
               "resolvedModule": "./src/main.js",
               "type": "harmony import specifier",
               "active": true,
               "explanation": "(skipped side-effect-free modules)",
-              "userRequest": "coderwhy_utils",
+              "userRequest": "zqTest_utils",
               "loc": "8:12-29",
               "moduleId": null,
               "resolvedModuleId": null
@@ -1958,9 +1958,9 @@
       "built": true,
       "codeGenerated": false,
       "cached": false,
-      "identifier": "/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/mini-css-extract-plugin/dist/loader.js!/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/css-loader/dist/cjs.js!/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/style.css",
+      "identifier": "/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/mini-css-extract-plugin/dist/loader.js!/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/css-loader/dist/cjs.js!/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/style.css",
       "name": "./src/style.css",
-      "nameForCondition": "/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/style.css",
+      "nameForCondition": "/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/style.css",
       "index": 1,
       "preOrderIndex": 1,
       "index2": 1,
@@ -1968,11 +1968,11 @@
       "cacheable": true,
       "optional": false,
       "orphan": true,
-      "issuer": "/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/main.js",
+      "issuer": "/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/main.js",
       "issuerName": "./src/main.js",
       "issuerPath": [
         {
-          "identifier": "/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/main.js",
+          "identifier": "/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/main.js",
           "name": "./src/main.js",
           "profile": {
             "total": 475,
@@ -2010,10 +2010,10 @@
       "assets": [],
       "reasons": [
         {
-          "moduleIdentifier": "/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/main.js",
+          "moduleIdentifier": "/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/main.js",
           "module": "./src/main.js",
           "moduleName": "./src/main.js",
-          "resolvedModuleIdentifier": "/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/main.js",
+          "resolvedModuleIdentifier": "/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/main.js",
           "resolvedModule": "./src/main.js",
           "type": "harmony side effect evaluation",
           "active": true,
@@ -2040,9 +2040,9 @@
       "built": true,
       "codeGenerated": false,
       "cached": false,
-      "identifier": "/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/math.js",
+      "identifier": "/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/math.js",
       "name": "./src/math.js",
-      "nameForCondition": "/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/math.js",
+      "nameForCondition": "/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/math.js",
       "index": 3,
       "preOrderIndex": 3,
       "index2": 2,
@@ -2050,11 +2050,11 @@
       "cacheable": true,
       "optional": false,
       "orphan": true,
-      "issuer": "/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/main.js",
+      "issuer": "/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/main.js",
       "issuerName": "./src/main.js",
       "issuerPath": [
         {
-          "identifier": "/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/main.js",
+          "identifier": "/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/main.js",
           "name": "./src/main.js",
           "profile": {
             "total": 475,
@@ -2092,10 +2092,10 @@
       "assets": [],
       "reasons": [
         {
-          "moduleIdentifier": "/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/main.js",
+          "moduleIdentifier": "/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/main.js",
           "module": "./src/main.js",
           "moduleName": "./src/main.js",
-          "resolvedModuleIdentifier": "/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/main.js",
+          "resolvedModuleIdentifier": "/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/main.js",
           "resolvedModule": "./src/main.js",
           "type": "harmony side effect evaluation",
           "active": false,
@@ -2106,10 +2106,10 @@
           "resolvedModuleId": null
         },
         {
-          "moduleIdentifier": "/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/main.js",
+          "moduleIdentifier": "/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/main.js",
           "module": "./src/main.js",
           "moduleName": "./src/main.js",
-          "resolvedModuleIdentifier": "/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/main.js",
+          "resolvedModuleIdentifier": "/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/main.js",
           "resolvedModule": "./src/main.js",
           "type": "harmony import specifier",
           "active": true,
@@ -2136,9 +2136,9 @@
       "built": true,
       "codeGenerated": false,
       "cached": false,
-      "identifier": "/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/coderwhy_utils/lib/math.js",
-      "name": "./node_modules/coderwhy_utils/lib/math.js",
-      "nameForCondition": "/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/coderwhy_utils/lib/math.js",
+      "identifier": "/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/zqTest_utils/lib/math.js",
+      "name": "./node_modules/zqTest_utils/lib/math.js",
+      "nameForCondition": "/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/zqTest_utils/lib/math.js",
       "index": 4,
       "preOrderIndex": 4,
       "index2": 3,
@@ -2146,11 +2146,11 @@
       "cacheable": true,
       "optional": false,
       "orphan": true,
-      "issuer": "/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/coderwhy_utils/index.js",
-      "issuerName": "./node_modules/coderwhy_utils/index.js",
+      "issuer": "/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/zqTest_utils/index.js",
+      "issuerName": "./node_modules/zqTest_utils/index.js",
       "issuerPath": [
         {
-          "identifier": "/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/main.js",
+          "identifier": "/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/main.js",
           "name": "./src/main.js",
           "profile": {
             "total": 475,
@@ -2167,8 +2167,8 @@
           "id": null
         },
         {
-          "identifier": "/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/coderwhy_utils/index.js",
-          "name": "./node_modules/coderwhy_utils/index.js",
+          "identifier": "/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/zqTest_utils/index.js",
+          "name": "./node_modules/zqTest_utils/index.js",
           "profile": {
             "total": 54,
             "resolving": 48,
@@ -2205,11 +2205,11 @@
       "assets": [],
       "reasons": [
         {
-          "moduleIdentifier": "/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/coderwhy_utils/index.js",
-          "module": "./node_modules/coderwhy_utils/index.js",
-          "moduleName": "./node_modules/coderwhy_utils/index.js",
-          "resolvedModuleIdentifier": "/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/coderwhy_utils/index.js",
-          "resolvedModule": "./node_modules/coderwhy_utils/index.js",
+          "moduleIdentifier": "/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/zqTest_utils/index.js",
+          "module": "./node_modules/zqTest_utils/index.js",
+          "moduleName": "./node_modules/zqTest_utils/index.js",
+          "resolvedModuleIdentifier": "/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/zqTest_utils/index.js",
+          "resolvedModule": "./node_modules/zqTest_utils/index.js",
           "type": "harmony side effect evaluation",
           "active": false,
           "explanation": "",
@@ -2219,11 +2219,11 @@
           "resolvedModuleId": null
         },
         {
-          "moduleIdentifier": "/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/coderwhy_utils/index.js",
-          "module": "./node_modules/coderwhy_utils/index.js",
-          "moduleName": "./node_modules/coderwhy_utils/index.js",
-          "resolvedModuleIdentifier": "/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/coderwhy_utils/index.js",
-          "resolvedModule": "./node_modules/coderwhy_utils/index.js",
+          "moduleIdentifier": "/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/zqTest_utils/index.js",
+          "module": "./node_modules/zqTest_utils/index.js",
+          "moduleName": "./node_modules/zqTest_utils/index.js",
+          "resolvedModuleIdentifier": "/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/zqTest_utils/index.js",
+          "resolvedModule": "./node_modules/zqTest_utils/index.js",
           "type": "harmony export imported specifier",
           "active": false,
           "explanation": "",
@@ -2233,15 +2233,15 @@
           "resolvedModuleId": null
         },
         {
-          "moduleIdentifier": "/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/main.js",
+          "moduleIdentifier": "/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/main.js",
           "module": "./src/main.js",
           "moduleName": "./src/main.js",
-          "resolvedModuleIdentifier": "/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/main.js",
+          "resolvedModuleIdentifier": "/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/main.js",
           "resolvedModule": "./src/main.js",
           "type": "harmony import specifier",
           "active": true,
           "explanation": "(skipped side-effect-free modules)",
-          "userRequest": "coderwhy_utils",
+          "userRequest": "zqTest_utils",
           "loc": "7:12-20",
           "moduleId": null,
           "resolvedModuleId": null
@@ -2263,9 +2263,9 @@
       "built": true,
       "codeGenerated": false,
       "cached": false,
-      "identifier": "/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/coderwhy_utils/lib/format.js",
-      "name": "./node_modules/coderwhy_utils/lib/format.js",
-      "nameForCondition": "/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/coderwhy_utils/lib/format.js",
+      "identifier": "/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/zqTest_utils/lib/format.js",
+      "name": "./node_modules/zqTest_utils/lib/format.js",
+      "nameForCondition": "/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/zqTest_utils/lib/format.js",
       "index": 5,
       "preOrderIndex": 5,
       "index2": 4,
@@ -2273,11 +2273,11 @@
       "cacheable": true,
       "optional": false,
       "orphan": true,
-      "issuer": "/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/coderwhy_utils/index.js",
-      "issuerName": "./node_modules/coderwhy_utils/index.js",
+      "issuer": "/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/zqTest_utils/index.js",
+      "issuerName": "./node_modules/zqTest_utils/index.js",
       "issuerPath": [
         {
-          "identifier": "/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/main.js",
+          "identifier": "/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/main.js",
           "name": "./src/main.js",
           "profile": {
             "total": 475,
@@ -2294,8 +2294,8 @@
           "id": null
         },
         {
-          "identifier": "/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/coderwhy_utils/index.js",
-          "name": "./node_modules/coderwhy_utils/index.js",
+          "identifier": "/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/zqTest_utils/index.js",
+          "name": "./node_modules/zqTest_utils/index.js",
           "profile": {
             "total": 54,
             "resolving": 48,
@@ -2332,11 +2332,11 @@
       "assets": [],
       "reasons": [
         {
-          "moduleIdentifier": "/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/coderwhy_utils/index.js",
-          "module": "./node_modules/coderwhy_utils/index.js",
-          "moduleName": "./node_modules/coderwhy_utils/index.js",
-          "resolvedModuleIdentifier": "/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/coderwhy_utils/index.js",
-          "resolvedModule": "./node_modules/coderwhy_utils/index.js",
+          "moduleIdentifier": "/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/zqTest_utils/index.js",
+          "module": "./node_modules/zqTest_utils/index.js",
+          "moduleName": "./node_modules/zqTest_utils/index.js",
+          "resolvedModuleIdentifier": "/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/zqTest_utils/index.js",
+          "resolvedModule": "./node_modules/zqTest_utils/index.js",
           "type": "harmony side effect evaluation",
           "active": false,
           "explanation": "",
@@ -2346,11 +2346,11 @@
           "resolvedModuleId": null
         },
         {
-          "moduleIdentifier": "/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/coderwhy_utils/index.js",
-          "module": "./node_modules/coderwhy_utils/index.js",
-          "moduleName": "./node_modules/coderwhy_utils/index.js",
-          "resolvedModuleIdentifier": "/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/coderwhy_utils/index.js",
-          "resolvedModule": "./node_modules/coderwhy_utils/index.js",
+          "moduleIdentifier": "/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/zqTest_utils/index.js",
+          "module": "./node_modules/zqTest_utils/index.js",
+          "moduleName": "./node_modules/zqTest_utils/index.js",
+          "resolvedModuleIdentifier": "/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/zqTest_utils/index.js",
+          "resolvedModule": "./node_modules/zqTest_utils/index.js",
           "type": "harmony export imported specifier",
           "active": false,
           "explanation": "",
@@ -2360,15 +2360,15 @@
           "resolvedModuleId": null
         },
         {
-          "moduleIdentifier": "/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/main.js",
+          "moduleIdentifier": "/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/main.js",
           "module": "./src/main.js",
           "moduleName": "./src/main.js",
-          "resolvedModuleIdentifier": "/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/main.js",
+          "resolvedModuleIdentifier": "/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/main.js",
           "resolvedModule": "./src/main.js",
           "type": "harmony import specifier",
           "active": true,
           "explanation": "(skipped side-effect-free modules)",
-          "userRequest": "coderwhy_utils",
+          "userRequest": "zqTest_utils",
           "loc": "8:12-29",
           "moduleId": null,
           "resolvedModuleId": null
@@ -2390,9 +2390,9 @@
       "built": true,
       "codeGenerated": true,
       "cached": false,
-      "identifier": "/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/abc.js",
+      "identifier": "/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/abc.js",
       "name": "./src/abc.js",
-      "nameForCondition": "/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/abc.js",
+      "nameForCondition": "/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/abc.js",
       "index": 6,
       "preOrderIndex": 6,
       "index2": 6,
@@ -2400,11 +2400,11 @@
       "cacheable": true,
       "optional": false,
       "orphan": false,
-      "issuer": "/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/main.js",
+      "issuer": "/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/main.js",
       "issuerName": "./src/main.js",
       "issuerPath": [
         {
-          "identifier": "/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/main.js",
+          "identifier": "/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/main.js",
           "name": "./src/main.js",
           "profile": {
             "total": 475,
@@ -2442,10 +2442,10 @@
       "assets": [],
       "reasons": [
         {
-          "moduleIdentifier": "/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/main.js|2ed6ff8da02af9993dea916e256dd0c2",
+          "moduleIdentifier": "/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/main.js|2ed6ff8da02af9993dea916e256dd0c2",
           "module": "./src/main.js + 4 modules",
           "moduleName": "./src/main.js + 4 modules",
-          "resolvedModuleIdentifier": "/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/main.js",
+          "resolvedModuleIdentifier": "/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/main.js",
           "resolvedModule": "./src/main.js",
           "type": "import()",
           "active": true,
@@ -2472,9 +2472,9 @@
       "built": true,
       "codeGenerated": false,
       "cached": false,
-      "identifier": "/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/coderwhy_utils/index.js",
-      "name": "./node_modules/coderwhy_utils/index.js",
-      "nameForCondition": "/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/coderwhy_utils/index.js",
+      "identifier": "/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/zqTest_utils/index.js",
+      "name": "./node_modules/zqTest_utils/index.js",
+      "nameForCondition": "/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/zqTest_utils/index.js",
       "index": null,
       "preOrderIndex": null,
       "index2": null,
@@ -2482,11 +2482,11 @@
       "cacheable": true,
       "optional": false,
       "orphan": true,
-      "issuer": "/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/main.js",
+      "issuer": "/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/main.js",
       "issuerName": "./src/main.js",
       "issuerPath": [
         {
-          "identifier": "/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/main.js",
+          "identifier": "/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/main.js",
           "name": "./src/main.js",
           "profile": {
             "total": 475,
@@ -2524,43 +2524,43 @@
       "assets": [],
       "reasons": [
         {
-          "moduleIdentifier": "/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/main.js|2ed6ff8da02af9993dea916e256dd0c2",
+          "moduleIdentifier": "/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/main.js|2ed6ff8da02af9993dea916e256dd0c2",
           "module": "./src/main.js + 4 modules",
           "moduleName": "./src/main.js + 4 modules",
-          "resolvedModuleIdentifier": "/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/main.js",
+          "resolvedModuleIdentifier": "/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/main.js",
           "resolvedModule": "./src/main.js",
           "type": "harmony side effect evaluation",
           "active": false,
           "explanation": "",
-          "userRequest": "coderwhy_utils",
+          "userRequest": "zqTest_utils",
           "loc": "2:0-46",
           "moduleId": 402,
           "resolvedModuleId": null
         },
         {
-          "moduleIdentifier": "/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/main.js|2ed6ff8da02af9993dea916e256dd0c2",
+          "moduleIdentifier": "/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/main.js|2ed6ff8da02af9993dea916e256dd0c2",
           "module": "./src/main.js + 4 modules",
           "moduleName": "./src/main.js + 4 modules",
-          "resolvedModuleIdentifier": "/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/main.js",
+          "resolvedModuleIdentifier": "/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/main.js",
           "resolvedModule": "./src/main.js",
           "type": "harmony import specifier",
           "active": false,
           "explanation": "",
-          "userRequest": "coderwhy_utils",
+          "userRequest": "zqTest_utils",
           "loc": "7:12-20",
           "moduleId": 402,
           "resolvedModuleId": null
         },
         {
-          "moduleIdentifier": "/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/main.js|2ed6ff8da02af9993dea916e256dd0c2",
+          "moduleIdentifier": "/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/main.js|2ed6ff8da02af9993dea916e256dd0c2",
           "module": "./src/main.js + 4 modules",
           "moduleName": "./src/main.js + 4 modules",
-          "resolvedModuleIdentifier": "/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/main.js",
+          "resolvedModuleIdentifier": "/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/main.js",
           "resolvedModule": "./src/main.js",
           "type": "harmony import specifier",
           "active": false,
           "explanation": "",
-          "userRequest": "coderwhy_utils",
+          "userRequest": "zqTest_utils",
           "loc": "8:12-29",
           "moduleId": 402,
           "resolvedModuleId": null
@@ -2583,9 +2583,9 @@
       "built": true,
       "codeGenerated": false,
       "cached": false,
-      "identifier": "/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/format.js",
+      "identifier": "/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/format.js",
       "name": "./src/format.js",
-      "nameForCondition": "/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/format.js",
+      "nameForCondition": "/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/format.js",
       "index": null,
       "preOrderIndex": null,
       "index2": null,
@@ -2593,11 +2593,11 @@
       "cacheable": true,
       "optional": false,
       "orphan": true,
-      "issuer": "/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/main.js",
+      "issuer": "/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/main.js",
       "issuerName": "./src/main.js",
       "issuerPath": [
         {
-          "identifier": "/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/main.js",
+          "identifier": "/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/main.js",
           "name": "./src/main.js",
           "profile": {
             "total": 475,
@@ -2635,10 +2635,10 @@
       "assets": [],
       "reasons": [
         {
-          "moduleIdentifier": "/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/main.js|2ed6ff8da02af9993dea916e256dd0c2",
+          "moduleIdentifier": "/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/main.js|2ed6ff8da02af9993dea916e256dd0c2",
           "module": "./src/main.js + 4 modules",
           "moduleName": "./src/main.js + 4 modules",
-          "resolvedModuleIdentifier": "/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/main.js",
+          "resolvedModuleIdentifier": "/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/main.js",
           "resolvedModule": "./src/main.js",
           "type": "harmony side effect evaluation",
           "active": false,
@@ -2666,20 +2666,20 @@
       "built": false,
       "codeGenerated": true,
       "cached": false,
-      "identifier": "css|/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/css-loader/dist/cjs.js!/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/style.css|0",
+      "identifier": "css|/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/css-loader/dist/cjs.js!/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/style.css|0",
       "name": "css ./node_modules/css-loader/dist/cjs.js!./src/style.css",
-      "nameForCondition": "/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/style.css",
+      "nameForCondition": "/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/style.css",
       "index": 2,
       "preOrderIndex": 2,
       "index2": 0,
       "postOrderIndex": 0,
       "optional": false,
       "orphan": false,
-      "issuer": "/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/mini-css-extract-plugin/dist/loader.js!/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/css-loader/dist/cjs.js!/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/style.css",
+      "issuer": "/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/mini-css-extract-plugin/dist/loader.js!/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/css-loader/dist/cjs.js!/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/style.css",
       "issuerName": "./src/style.css",
       "issuerPath": [
         {
-          "identifier": "/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/main.js",
+          "identifier": "/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/main.js",
           "name": "./src/main.js",
           "profile": {
             "total": 475,
@@ -2696,7 +2696,7 @@
           "id": null
         },
         {
-          "identifier": "/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/mini-css-extract-plugin/dist/loader.js!/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/css-loader/dist/cjs.js!/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/style.css",
+          "identifier": "/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/mini-css-extract-plugin/dist/loader.js!/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/css-loader/dist/cjs.js!/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/style.css",
           "name": "./src/style.css",
           "profile": {
             "total": 222,
@@ -2734,10 +2734,10 @@
       "assets": [],
       "reasons": [
         {
-          "moduleIdentifier": "/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/main.js|2ed6ff8da02af9993dea916e256dd0c2",
+          "moduleIdentifier": "/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/main.js|2ed6ff8da02af9993dea916e256dd0c2",
           "module": "./src/main.js + 4 modules",
           "moduleName": "./src/main.js + 4 modules",
-          "resolvedModuleIdentifier": "/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/mini-css-extract-plugin/dist/loader.js!/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/css-loader/dist/cjs.js!/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/style.css",
+          "resolvedModuleIdentifier": "/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/mini-css-extract-plugin/dist/loader.js!/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/css-loader/dist/cjs.js!/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/style.css",
           "resolvedModule": "./src/style.css",
           "type": "unknown",
           "active": true,
@@ -2747,10 +2747,10 @@
           "resolvedModuleId": null
         },
         {
-          "moduleIdentifier": "/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/mini-css-extract-plugin/dist/loader.js!/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/css-loader/dist/cjs.js!/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/style.css",
+          "moduleIdentifier": "/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/mini-css-extract-plugin/dist/loader.js!/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/css-loader/dist/cjs.js!/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/style.css",
           "module": "./src/style.css",
           "moduleName": "./src/style.css",
-          "resolvedModuleIdentifier": "/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/mini-css-extract-plugin/dist/loader.js!/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/css-loader/dist/cjs.js!/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/style.css",
+          "resolvedModuleIdentifier": "/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/mini-css-extract-plugin/dist/loader.js!/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/css-loader/dist/cjs.js!/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/style.css",
           "resolvedModule": "./src/style.css",
           "type": "unknown",
           "active": true,
@@ -3127,7 +3127,7 @@
       "time": 108,
       "builtAt": 1615379003239,
       "publicPath": "",
-      "outputPath": "/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/build",
+      "outputPath": "/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/build",
       "assetsByChunkName": {},
       "assets": [],
       "chunks": [
@@ -3159,9 +3159,9 @@
               "built": true,
               "codeGenerated": true,
               "cached": false,
-              "identifier": "/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/html-webpack-plugin/lib/loader.js!/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/index.html",
+              "identifier": "/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/html-webpack-plugin/lib/loader.js!/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/index.html",
               "name": "./node_modules/html-webpack-plugin/lib/loader.js!./index.html",
-              "nameForCondition": "/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/index.html",
+              "nameForCondition": "/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/index.html",
               "index": 1,
               "preOrderIndex": 1,
               "index2": 1,
@@ -3194,10 +3194,10 @@
               "assets": [],
               "reasons": [
                 {
-                  "moduleIdentifier": "/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/html-webpack-plugin/lib/loader.js!/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/index.html",
+                  "moduleIdentifier": "/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/html-webpack-plugin/lib/loader.js!/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/index.html",
                   "module": "./node_modules/html-webpack-plugin/lib/loader.js!./index.html",
                   "moduleName": "./node_modules/html-webpack-plugin/lib/loader.js!./index.html",
-                  "resolvedModuleIdentifier": "/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/html-webpack-plugin/lib/loader.js!/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/index.html",
+                  "resolvedModuleIdentifier": "/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/html-webpack-plugin/lib/loader.js!/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/index.html",
                   "resolvedModule": "./node_modules/html-webpack-plugin/lib/loader.js!./index.html",
                   "type": "cjs self exports reference",
                   "active": true,
@@ -3216,7 +3216,7 @@
                   "type": "entry",
                   "active": true,
                   "explanation": "",
-                  "userRequest": "/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/html-webpack-plugin/lib/loader.js!/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/index.html",
+                  "userRequest": "/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/html-webpack-plugin/lib/loader.js!/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/index.html",
                   "loc": "HtmlWebpackPlugin_0-0",
                   "moduleId": null,
                   "resolvedModuleId": null
@@ -3410,7 +3410,7 @@
               "moduleIdentifier": "",
               "moduleName": "",
               "loc": "HtmlWebpackPlugin_0-0",
-              "request": "/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/html-webpack-plugin/lib/loader.js!/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/index.html"
+              "request": "/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/html-webpack-plugin/lib/loader.js!/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/index.html"
             },
             {
               "module": "",
@@ -3496,9 +3496,9 @@
           "built": true,
           "codeGenerated": true,
           "cached": false,
-          "identifier": "/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/html-webpack-plugin/lib/loader.js!/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/index.html",
+          "identifier": "/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/html-webpack-plugin/lib/loader.js!/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/index.html",
           "name": "./node_modules/html-webpack-plugin/lib/loader.js!./index.html",
-          "nameForCondition": "/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/index.html",
+          "nameForCondition": "/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/index.html",
           "index": 1,
           "preOrderIndex": 1,
           "index2": 1,
@@ -3530,10 +3530,10 @@
           "assets": [],
           "reasons": [
             {
-              "moduleIdentifier": "/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/html-webpack-plugin/lib/loader.js!/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/index.html",
+              "moduleIdentifier": "/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/html-webpack-plugin/lib/loader.js!/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/index.html",
               "module": "./node_modules/html-webpack-plugin/lib/loader.js!./index.html",
               "moduleName": "./node_modules/html-webpack-plugin/lib/loader.js!./index.html",
-              "resolvedModuleIdentifier": "/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/html-webpack-plugin/lib/loader.js!/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/index.html",
+              "resolvedModuleIdentifier": "/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/html-webpack-plugin/lib/loader.js!/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/index.html",
               "resolvedModule": "./node_modules/html-webpack-plugin/lib/loader.js!./index.html",
               "type": "cjs self exports reference",
               "active": true,
@@ -3552,7 +3552,7 @@
               "type": "entry",
               "active": true,
               "explanation": "",
-              "userRequest": "/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/html-webpack-plugin/lib/loader.js!/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/index.html",
+              "userRequest": "/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/html-webpack-plugin/lib/loader.js!/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/index.html",
               "loc": "HtmlWebpackPlugin_0-0",
               "moduleId": null,
               "resolvedModuleId": null
@@ -3709,13 +3709,13 @@
       "children": []
     },
     {
-      "name": "mini-css-extract-plugin /Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/css-loader/dist/cjs.js!/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/style.css",
+      "name": "mini-css-extract-plugin /Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/css-loader/dist/cjs.js!/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/style.css",
       "hash": "96d9fe0819a45230e417",
       "version": "5.23.0",
       "time": 175,
       "builtAt": 1615379003833,
       "publicPath": "",
-      "outputPath": "/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/build",
+      "outputPath": "/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/build",
       "assetsByChunkName": {},
       "assets": [],
       "chunks": [
@@ -3747,9 +3747,9 @@
               "built": true,
               "codeGenerated": true,
               "cached": false,
-              "identifier": "/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/css-loader/dist/cjs.js!/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/style.css",
+              "identifier": "/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/css-loader/dist/cjs.js!/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/style.css",
               "name": "./node_modules/css-loader/dist/cjs.js!./src/style.css",
-              "nameForCondition": "/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/style.css",
+              "nameForCondition": "/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/style.css",
               "index": 0,
               "preOrderIndex": 0,
               "index2": 2,
@@ -3790,7 +3790,7 @@
                   "type": "entry",
                   "active": true,
                   "explanation": "",
-                  "userRequest": "!!/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/css-loader/dist/cjs.js!/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/style.css",
+                  "userRequest": "!!/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/css-loader/dist/cjs.js!/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/style.css",
                   "loc": "mini-css-extract-plugin",
                   "moduleId": null,
                   "resolvedModuleId": null
@@ -3827,9 +3827,9 @@
               "built": true,
               "codeGenerated": true,
               "cached": false,
-              "identifier": "/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/css-loader/dist/runtime/api.js",
+              "identifier": "/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/css-loader/dist/runtime/api.js",
               "name": "./node_modules/css-loader/dist/runtime/api.js",
-              "nameForCondition": "/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/css-loader/dist/runtime/api.js",
+              "nameForCondition": "/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/css-loader/dist/runtime/api.js",
               "index": 2,
               "preOrderIndex": 2,
               "index2": 1,
@@ -3838,11 +3838,11 @@
               "optional": false,
               "orphan": false,
               "dependent": true,
-              "issuer": "/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/css-loader/dist/cjs.js!/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/style.css",
+              "issuer": "/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/css-loader/dist/cjs.js!/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/style.css",
               "issuerName": "./node_modules/css-loader/dist/cjs.js!./src/style.css",
               "issuerPath": [
                 {
-                  "identifier": "/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/css-loader/dist/cjs.js!/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/style.css",
+                  "identifier": "/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/css-loader/dist/cjs.js!/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/style.css",
                   "name": "./node_modules/css-loader/dist/cjs.js!./src/style.css",
                   "profile": {
                     "total": 65,
@@ -3880,10 +3880,10 @@
               "assets": [],
               "reasons": [
                 {
-                  "moduleIdentifier": "/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/css-loader/dist/runtime/api.js",
+                  "moduleIdentifier": "/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/css-loader/dist/runtime/api.js",
                   "module": "./node_modules/css-loader/dist/runtime/api.js",
                   "moduleName": "./node_modules/css-loader/dist/runtime/api.js",
-                  "resolvedModuleIdentifier": "/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/css-loader/dist/runtime/api.js",
+                  "resolvedModuleIdentifier": "/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/css-loader/dist/runtime/api.js",
                   "resolvedModule": "./node_modules/css-loader/dist/runtime/api.js",
                   "type": "cjs self exports reference",
                   "active": true,
@@ -3894,10 +3894,10 @@
                   "resolvedModuleId": 705
                 },
                 {
-                  "moduleIdentifier": "/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/css-loader/dist/cjs.js!/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/style.css",
+                  "moduleIdentifier": "/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/css-loader/dist/cjs.js!/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/style.css",
                   "module": "./node_modules/css-loader/dist/cjs.js!./src/style.css",
                   "moduleName": "./node_modules/css-loader/dist/cjs.js!./src/style.css",
-                  "resolvedModuleIdentifier": "/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/css-loader/dist/cjs.js!/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/style.css",
+                  "resolvedModuleIdentifier": "/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/css-loader/dist/cjs.js!/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/style.css",
                   "resolvedModule": "./node_modules/css-loader/dist/cjs.js!./src/style.css",
                   "type": "harmony side effect evaluation",
                   "active": true,
@@ -3908,10 +3908,10 @@
                   "resolvedModuleId": 426
                 },
                 {
-                  "moduleIdentifier": "/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/css-loader/dist/cjs.js!/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/style.css",
+                  "moduleIdentifier": "/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/css-loader/dist/cjs.js!/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/style.css",
                   "module": "./node_modules/css-loader/dist/cjs.js!./src/style.css",
                   "moduleName": "./node_modules/css-loader/dist/cjs.js!./src/style.css",
-                  "resolvedModuleIdentifier": "/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/css-loader/dist/cjs.js!/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/style.css",
+                  "resolvedModuleIdentifier": "/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/css-loader/dist/cjs.js!/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/style.css",
                   "resolvedModule": "./node_modules/css-loader/dist/cjs.js!./src/style.css",
                   "type": "harmony import specifier",
                   "active": true,
@@ -3941,9 +3941,9 @@
               "built": true,
               "codeGenerated": true,
               "cached": false,
-              "identifier": "/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/css-loader/dist/runtime/cssWithMappingToString.js",
+              "identifier": "/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/css-loader/dist/runtime/cssWithMappingToString.js",
               "name": "./node_modules/css-loader/dist/runtime/cssWithMappingToString.js",
-              "nameForCondition": "/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/css-loader/dist/runtime/cssWithMappingToString.js",
+              "nameForCondition": "/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/css-loader/dist/runtime/cssWithMappingToString.js",
               "index": 1,
               "preOrderIndex": 1,
               "index2": 0,
@@ -3952,11 +3952,11 @@
               "optional": false,
               "orphan": false,
               "dependent": true,
-              "issuer": "/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/css-loader/dist/cjs.js!/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/style.css",
+              "issuer": "/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/css-loader/dist/cjs.js!/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/style.css",
               "issuerName": "./node_modules/css-loader/dist/cjs.js!./src/style.css",
               "issuerPath": [
                 {
-                  "identifier": "/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/css-loader/dist/cjs.js!/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/style.css",
+                  "identifier": "/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/css-loader/dist/cjs.js!/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/style.css",
                   "name": "./node_modules/css-loader/dist/cjs.js!./src/style.css",
                   "profile": {
                     "total": 65,
@@ -3994,10 +3994,10 @@
               "assets": [],
               "reasons": [
                 {
-                  "moduleIdentifier": "/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/css-loader/dist/runtime/cssWithMappingToString.js",
+                  "moduleIdentifier": "/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/css-loader/dist/runtime/cssWithMappingToString.js",
                   "module": "./node_modules/css-loader/dist/runtime/cssWithMappingToString.js",
                   "moduleName": "./node_modules/css-loader/dist/runtime/cssWithMappingToString.js",
-                  "resolvedModuleIdentifier": "/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/css-loader/dist/runtime/cssWithMappingToString.js",
+                  "resolvedModuleIdentifier": "/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/css-loader/dist/runtime/cssWithMappingToString.js",
                   "resolvedModule": "./node_modules/css-loader/dist/runtime/cssWithMappingToString.js",
                   "type": "cjs self exports reference",
                   "active": true,
@@ -4008,10 +4008,10 @@
                   "resolvedModuleId": 880
                 },
                 {
-                  "moduleIdentifier": "/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/css-loader/dist/cjs.js!/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/style.css",
+                  "moduleIdentifier": "/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/css-loader/dist/cjs.js!/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/style.css",
                   "module": "./node_modules/css-loader/dist/cjs.js!./src/style.css",
                   "moduleName": "./node_modules/css-loader/dist/cjs.js!./src/style.css",
-                  "resolvedModuleIdentifier": "/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/css-loader/dist/cjs.js!/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/style.css",
+                  "resolvedModuleIdentifier": "/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/css-loader/dist/cjs.js!/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/style.css",
                   "resolvedModule": "./node_modules/css-loader/dist/cjs.js!./src/style.css",
                   "type": "harmony side effect evaluation",
                   "active": true,
@@ -4022,10 +4022,10 @@
                   "resolvedModuleId": 426
                 },
                 {
-                  "moduleIdentifier": "/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/css-loader/dist/cjs.js!/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/style.css",
+                  "moduleIdentifier": "/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/css-loader/dist/cjs.js!/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/style.css",
                   "module": "./node_modules/css-loader/dist/cjs.js!./src/style.css",
                   "moduleName": "./node_modules/css-loader/dist/cjs.js!./src/style.css",
-                  "resolvedModuleIdentifier": "/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/css-loader/dist/cjs.js!/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/style.css",
+                  "resolvedModuleIdentifier": "/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/css-loader/dist/cjs.js!/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/style.css",
                   "resolvedModule": "./node_modules/css-loader/dist/cjs.js!./src/style.css",
                   "type": "harmony import specifier",
                   "active": true,
@@ -4177,7 +4177,7 @@
               "moduleIdentifier": "",
               "moduleName": "",
               "loc": "mini-css-extract-plugin",
-              "request": "!!/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/css-loader/dist/cjs.js!/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/style.css"
+              "request": "!!/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/css-loader/dist/cjs.js!/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/style.css"
             }
           ]
         }
@@ -4192,9 +4192,9 @@
           "built": true,
           "codeGenerated": true,
           "cached": false,
-          "identifier": "/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/css-loader/dist/cjs.js!/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/style.css",
+          "identifier": "/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/css-loader/dist/cjs.js!/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/style.css",
           "name": "./node_modules/css-loader/dist/cjs.js!./src/style.css",
-          "nameForCondition": "/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/style.css",
+          "nameForCondition": "/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/style.css",
           "index": 0,
           "preOrderIndex": 0,
           "index2": 2,
@@ -4234,7 +4234,7 @@
               "type": "entry",
               "active": true,
               "explanation": "",
-              "userRequest": "!!/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/css-loader/dist/cjs.js!/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/style.css",
+              "userRequest": "!!/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/css-loader/dist/cjs.js!/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/style.css",
               "loc": "mini-css-extract-plugin",
               "moduleId": null,
               "resolvedModuleId": null
@@ -4271,9 +4271,9 @@
           "built": true,
           "codeGenerated": true,
           "cached": false,
-          "identifier": "/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/css-loader/dist/runtime/cssWithMappingToString.js",
+          "identifier": "/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/css-loader/dist/runtime/cssWithMappingToString.js",
           "name": "./node_modules/css-loader/dist/runtime/cssWithMappingToString.js",
-          "nameForCondition": "/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/css-loader/dist/runtime/cssWithMappingToString.js",
+          "nameForCondition": "/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/css-loader/dist/runtime/cssWithMappingToString.js",
           "index": 1,
           "preOrderIndex": 1,
           "index2": 0,
@@ -4281,11 +4281,11 @@
           "cacheable": true,
           "optional": false,
           "orphan": false,
-          "issuer": "/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/css-loader/dist/cjs.js!/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/style.css",
+          "issuer": "/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/css-loader/dist/cjs.js!/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/style.css",
           "issuerName": "./node_modules/css-loader/dist/cjs.js!./src/style.css",
           "issuerPath": [
             {
-              "identifier": "/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/css-loader/dist/cjs.js!/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/style.css",
+              "identifier": "/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/css-loader/dist/cjs.js!/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/style.css",
               "name": "./node_modules/css-loader/dist/cjs.js!./src/style.css",
               "profile": {
                 "total": 65,
@@ -4323,10 +4323,10 @@
           "assets": [],
           "reasons": [
             {
-              "moduleIdentifier": "/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/css-loader/dist/runtime/cssWithMappingToString.js",
+              "moduleIdentifier": "/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/css-loader/dist/runtime/cssWithMappingToString.js",
               "module": "./node_modules/css-loader/dist/runtime/cssWithMappingToString.js",
               "moduleName": "./node_modules/css-loader/dist/runtime/cssWithMappingToString.js",
-              "resolvedModuleIdentifier": "/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/css-loader/dist/runtime/cssWithMappingToString.js",
+              "resolvedModuleIdentifier": "/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/css-loader/dist/runtime/cssWithMappingToString.js",
               "resolvedModule": "./node_modules/css-loader/dist/runtime/cssWithMappingToString.js",
               "type": "cjs self exports reference",
               "active": true,
@@ -4337,10 +4337,10 @@
               "resolvedModuleId": 880
             },
             {
-              "moduleIdentifier": "/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/css-loader/dist/cjs.js!/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/style.css",
+              "moduleIdentifier": "/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/css-loader/dist/cjs.js!/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/style.css",
               "module": "./node_modules/css-loader/dist/cjs.js!./src/style.css",
               "moduleName": "./node_modules/css-loader/dist/cjs.js!./src/style.css",
-              "resolvedModuleIdentifier": "/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/css-loader/dist/cjs.js!/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/style.css",
+              "resolvedModuleIdentifier": "/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/css-loader/dist/cjs.js!/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/style.css",
               "resolvedModule": "./node_modules/css-loader/dist/cjs.js!./src/style.css",
               "type": "harmony side effect evaluation",
               "active": true,
@@ -4351,10 +4351,10 @@
               "resolvedModuleId": 426
             },
             {
-              "moduleIdentifier": "/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/css-loader/dist/cjs.js!/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/style.css",
+              "moduleIdentifier": "/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/css-loader/dist/cjs.js!/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/style.css",
               "module": "./node_modules/css-loader/dist/cjs.js!./src/style.css",
               "moduleName": "./node_modules/css-loader/dist/cjs.js!./src/style.css",
-              "resolvedModuleIdentifier": "/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/css-loader/dist/cjs.js!/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/style.css",
+              "resolvedModuleIdentifier": "/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/css-loader/dist/cjs.js!/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/style.css",
               "resolvedModule": "./node_modules/css-loader/dist/cjs.js!./src/style.css",
               "type": "harmony import specifier",
               "active": true,
@@ -4384,9 +4384,9 @@
           "built": true,
           "codeGenerated": true,
           "cached": false,
-          "identifier": "/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/css-loader/dist/runtime/api.js",
+          "identifier": "/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/css-loader/dist/runtime/api.js",
           "name": "./node_modules/css-loader/dist/runtime/api.js",
-          "nameForCondition": "/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/css-loader/dist/runtime/api.js",
+          "nameForCondition": "/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/css-loader/dist/runtime/api.js",
           "index": 2,
           "preOrderIndex": 2,
           "index2": 1,
@@ -4394,11 +4394,11 @@
           "cacheable": true,
           "optional": false,
           "orphan": false,
-          "issuer": "/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/css-loader/dist/cjs.js!/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/style.css",
+          "issuer": "/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/css-loader/dist/cjs.js!/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/style.css",
           "issuerName": "./node_modules/css-loader/dist/cjs.js!./src/style.css",
           "issuerPath": [
             {
-              "identifier": "/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/css-loader/dist/cjs.js!/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/style.css",
+              "identifier": "/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/css-loader/dist/cjs.js!/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/style.css",
               "name": "./node_modules/css-loader/dist/cjs.js!./src/style.css",
               "profile": {
                 "total": 65,
@@ -4436,10 +4436,10 @@
           "assets": [],
           "reasons": [
             {
-              "moduleIdentifier": "/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/css-loader/dist/runtime/api.js",
+              "moduleIdentifier": "/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/css-loader/dist/runtime/api.js",
               "module": "./node_modules/css-loader/dist/runtime/api.js",
               "moduleName": "./node_modules/css-loader/dist/runtime/api.js",
-              "resolvedModuleIdentifier": "/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/css-loader/dist/runtime/api.js",
+              "resolvedModuleIdentifier": "/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/babel-loader/lib/index.js!/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/css-loader/dist/runtime/api.js",
               "resolvedModule": "./node_modules/css-loader/dist/runtime/api.js",
               "type": "cjs self exports reference",
               "active": true,
@@ -4450,10 +4450,10 @@
               "resolvedModuleId": 705
             },
             {
-              "moduleIdentifier": "/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/css-loader/dist/cjs.js!/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/style.css",
+              "moduleIdentifier": "/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/css-loader/dist/cjs.js!/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/style.css",
               "module": "./node_modules/css-loader/dist/cjs.js!./src/style.css",
               "moduleName": "./node_modules/css-loader/dist/cjs.js!./src/style.css",
-              "resolvedModuleIdentifier": "/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/css-loader/dist/cjs.js!/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/style.css",
+              "resolvedModuleIdentifier": "/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/css-loader/dist/cjs.js!/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/style.css",
               "resolvedModule": "./node_modules/css-loader/dist/cjs.js!./src/style.css",
               "type": "harmony side effect evaluation",
               "active": true,
@@ -4464,10 +4464,10 @@
               "resolvedModuleId": 426
             },
             {
-              "moduleIdentifier": "/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/css-loader/dist/cjs.js!/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/style.css",
+              "moduleIdentifier": "/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/css-loader/dist/cjs.js!/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/style.css",
               "module": "./node_modules/css-loader/dist/cjs.js!./src/style.css",
               "moduleName": "./node_modules/css-loader/dist/cjs.js!./src/style.css",
-              "resolvedModuleIdentifier": "/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/css-loader/dist/cjs.js!/Users/coderwhy/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/style.css",
+              "resolvedModuleIdentifier": "/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/node_modules/css-loader/dist/cjs.js!/Users/zqTest/Desktop/Webpack/课堂/code/02_learn_webpack2/25_webpack打包分析/src/style.css",
               "resolvedModule": "./node_modules/css-loader/dist/cjs.js!./src/style.css",
               "type": "harmony import specifier",
               "active": true,
